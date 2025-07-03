@@ -1,0 +1,13 @@
+# Ignorar arquivos do Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar arquivos gerados pelo Maven
+target/
+*.log
+
+# Ignorar arquivos de IDEs
+.idea/
+*.iml
+.vscode/
